@@ -1,5 +1,3 @@
-Run the python script and a pop up on your screen should show up.
-it should read "Launhing Fortnite please wait".
-fortnite will open and a pop up will show up that says "press ok when in lobby." 
-when in lobby press th ok button on the bottom right.
-once done the setting will be in the upper right hand 
+run the python file 
+wait for it to auto open val 
+once its done a gui will pop up
